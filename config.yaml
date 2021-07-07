@@ -1,13 +1,13 @@
 baseURL: ''
 languageCode: en-us
 theme: SimpleIntro
-title: Theme Demo
+title: Home
 publishDir: public
 params:
-  mainText: Just simple intro theme for hugo
-  mainTitle: Simple-intro
+  mainText: Keep scrolling to peruse my projects.
+  mainTitle: Hi, I'm Sara
   mainbg: https://picsum.photos/1920/1080
-  name: John Doe
+  name: Sara
 menus: {}
 menu:
   main:

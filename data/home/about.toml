@@ -1,23 +1,21 @@
-title = "Hello, World!"
+title = "Hi everyone"
 
 text = """
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Voluptatibus quia, nulla! Maiores et perferendis eaque,
-exercitationem praesentium nihil.
+I'm a PhD-to-be that's excited about using data analysis to understand the world. To me, statistics is the magic of converting empirical observations into stories.
 """
 
 [[link]]
     icon = "fab fa-github"
-    url = "#"
+    url = "https://github.com/sluobo"
 [[link]]
     icon = "fab fa-linkedin"
-    url = "#"
+    url = "https://www.linkedin.com/in/sara-lieber-a2811a16b"
 [[link]]
     icon = "fas fa-envelope"
-    url = "#"
+    url = "mailto: slieber@uoregon.edu"
 [[link]]
     icon = "fab fa-instagram"
-    url = "#"
+    url = "https://www.instagram.com/storiesfromnumbers/"
 [[link]]
-    icon = "fab fa-facebook"
+    icon = "far fa-file-pdf"
     url = "#"
