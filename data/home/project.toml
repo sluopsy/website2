@@ -1,9 +1,9 @@
 [[list]]
     title = "Machine Learning Tutorial"
-    image = "https://picsum.photos/400/200"
     link = "https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/ML_img.JPG"
     text = """
-        I co-created a tutorial on machine learning, which is a statistical technique I'm very fascinated by. Click the image to see the tutorial for yourself.
+        I co-created a tutorial on machine learning. Click the image to see the tutorial for yourself.
     """
 [[list]]
     title = "lorem"
