@@ -20,3 +20,6 @@ menu:
     - identifier: projects
       name: Projects
       url: '#projects'
+    - identifier: Publications
+      name: Publications
+      url: '#publications'
