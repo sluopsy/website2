@@ -5,31 +5,31 @@
         R is my programming language of choice. I first learned R in 2016, and it has turned out to be my favorite analysis tool. It's flexible, powerful, and straightforward (once you know what you're looking for).    """
 [[list]]
     name = "Statistical Modeling"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+    icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/regression.JPG"
     text = """
         Statistical modeling helps us to create simplified representations of complex real-world phenomena. My favorite statistical modeling techniques are regression, multilevel modeling, factor analysis, and machine learning.
     """
 [[list]]
     name = "Data Visualization"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/visualization.JPG"
     text = """
         To me, visualizations are one of the most powerful tools data analysts can use to convey meaning to a general audience. Images translate data into meaningful stories about the world. 
     """
 [[list]]
     name = "Data Cleaning"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/diagnostics.JPG"
     text = """
         I'm very detail-oriented. Before data is ready to analyze, I pay special attention to cleaning it, handling missing data and outliers, and checking that statistical assumptions have been met.
     """
 [[list]]
     name = "SPSS & Jamovi"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    icon = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spss/spss-plain.svg"
     text = """
         I've also been trained in and taught students how to conduct statistical analyses in SPSS and Jamovi.
     """
 [[list]]
     name = "Communicating"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/teaching.JPG"
     text = """
         I've been teaching courses on data analysis and statistics for seven years. One thing I have a passion for is figuring out how to discuss complex statistical concepts simply so they can be communicated to a general audience.
     """
