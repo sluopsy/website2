@@ -1,15 +1,24 @@
 [[list]]
-    title = "Machine Learning Tutorial"
+    title = "Norms and Unsustainable Consumption"
     image = "https://picsum.photos/400/200"
     text = """
-        I co-created a tutorial on machine learning. Click to see the tutorial for yourself.
+        Currently, I'm working on a project investigating how norm interventions
+        can be constructed to reduce people's unsustainable consumption behaviors.
     """
-
 [[list]]
-    title = "lorem"
+    title = "Unpopular Norms among College Students"
     image = "https://picsum.photos/400/200"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        There is a peculiar phenomenon identified in sociology called
+        'unpopular norms', which are norms that guide the everyday
+        behavior of members of a group that secretly the group members
+        actually disagree with. In this project, I investigated unpopular
+        norms that exist among college students.
+    """
+[[list]]
+    title = "Machine Learning Tutorial"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/ML_img3.JPG"
+    text = """
+        I co-created a tutorial on machine learning. Click to see the tutorial 
+        for yourself.
     """

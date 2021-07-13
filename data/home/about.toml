@@ -1,8 +1,12 @@
-title = "Hi everyone"
+title = "About Me"
 
 text = """
-I'm a PhD-to-be that's passionate about using data analysis to understand the world. To me, 
-statistics is the magic of converting empirical observations into stories.
+I'm a current doctoral student at the University of Oregon that loves using data analysis 
+to understand the world. I have been teaching statistics and data analysis for seven years.
+
+I'm also a psychology researcher interested in how norm interventions can be used to 
+reduce peoples' unsustainable consumption, which is the consumption of goods and services 
+with negative environmental impacts at levels not sustainable long-term by the planet. 
 """
 
 [[link]]

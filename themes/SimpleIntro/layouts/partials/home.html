@@ -30,7 +30,7 @@
   <main class="container mx-auto mt-8 px-4 xl:px-0">
     <section id="about" class="md:flex justify-around">
       <div class="my-auto md:mr-4">
-        {{ partial "home_title" (dict "title" "About Me") }}
+        {{ partial "home_title" (dict "title" "Links") }}
         <div class="flex mt-3 gap-3 text-xl">
           {{ range $data.about.link }}
           <a href="{{.url}}"><i class="{{ .icon }}"></i></a>{{end}}
@@ -114,6 +114,37 @@
       </div>
       {{else}}
           <div class="mt-4 text-xl text-center">Projects does not exist</div>
+      {{end}}
+    </section>
+     <section id="publications" class="mt-12">
+      <div class="md:flex justify-center">
+        {{ partial "home_title" (dict "title" "Publications") }}
+      </div>
+      
+      {{if $data.skills.list}}
+      <div
+        class="mt-8 grid grid-flow-row grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"
+      >
+        {{ range $data.publications.list }}
+        <div class="w-full rounded overflow-hidden shadow-lg">
+          <a href="{{ .url }}" target="_blank">
+            <img
+            class="w-full h-48"
+            src="{{ .image }}"
+            alt="Sunset in the mountains"
+            />            
+          </a>         
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">{{ .title }}</div>
+            <p class="text-gray-700 text-base">
+              {{ .text }}
+            </p>
+          </div>
+        </div>
+        {{end}}
+      </div>
+      {{else}}
+          <div class="mt-4 text-xl text-center">Publications does not exist</div>
       {{end}}
     </section>
   </main>

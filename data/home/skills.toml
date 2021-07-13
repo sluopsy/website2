@@ -2,34 +2,34 @@
     name = "R"
     icon = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/rstudio/rstudio-original.svg"
     text = """
-        R is my programming language of choice. I first learned R in 2016, and it has turned out to be my favorite analysis tool. It's flexible, powerful, and straightforward (once you know what you're looking for).    """
+        Since learning it in 2016, R has been my programming language of choice. It's flexible, powerful, and straightforward (once you have the basics down).   """
 [[list]]
     name = "Statistical Modeling"
     icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/regression.JPG"
     text = """
-        Statistical modeling helps us to create simplified representations of complex real-world phenomena. My favorite statistical modeling techniques are regression, multilevel modeling, factor analysis, and machine learning.
+        Statistical modeling helps us to create simplified representations of complex real-world phenomena. My favorite techniques are regression, multilevel modeling, factor analysis, and machine learning.
     """
 [[list]]
     name = "Data Visualization"
-    icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/visualization.JPG"
+    icon = "https://github.com/sluobo/website2/blob/master/themes/SimpleIntro/static/img/visualization.JPG?raw=TRUE"
     text = """
-        To me, visualizations are one of the most powerful tools data analysts can use to convey meaning to a general audience. Images translate data into meaningful stories about the world. 
+        Visualizations are one of the most powerful tools data analysts can use to convey meaning to a general audience. Images translate data into meaningful stories about the world. 
     """
 [[list]]
     name = "Data Cleaning"
     icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/diagnostics.JPG"
     text = """
-        I'm very detail-oriented. Before data is ready to analyze, I pay special attention to cleaning it, handling missing data and outliers, and checking that statistical assumptions have been met.
+        Before data is ready to analyze, I pay special attention to cleaning it, handling missing data and outliers, and checking that statistical assumptions have been met.
     """
 [[list]]
     name = "SPSS & Jamovi"
     icon = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spss/spss-plain.svg"
     text = """
-        I've also been trained in and taught students how to conduct statistical analyses in SPSS and Jamovi.
+        I've also been trained in using SPSS and Jamovi, as well as have taught students how to conduct statistical analyses using these tools.
     """
 [[list]]
     name = "Communicating"
     icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/teaching.JPG"
     text = """
-        I've been teaching courses on data analysis and statistics for seven years. One thing I have a passion for is figuring out how to discuss complex statistical concepts simply so they can be communicated to a general audience.
+        Through my experience teaching, I have developed a passion for simplifying complex statistical concepts so that they can be communicated to a general audience.
     """
