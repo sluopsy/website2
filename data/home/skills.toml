@@ -1,6 +1,6 @@
 [[list]]
     name = "R"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
+    icon = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/rstudio/rstudio-original.svg"
     text = """
         R is my programming language of choice. I first learned R in 2016, and it has turned out to be my favorite analysis tool. It's flexible, powerful, and straightforward (once you know what you're looking for).    """
 [[list]]
