@@ -1,13 +1,13 @@
 [[list]]
     title = "Norms and Unsustainable Consumption"
-    image = "https://picsum.photos/400/200"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norms_and_unsustainable_consumption.JPG"
     text = """
         Currently, I'm working on a project investigating how norm interventions
         can be constructed to reduce people's unsustainable consumption behaviors.
     """
 [[list]]
     title = "Unpopular Norms among College Students"
-    image = "https://picsum.photos/400/200"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/unpopular_norms.JPG"
     text = """
         There is a peculiar phenomenon identified in sociology called
         'unpopular norms', which are norms that guide the everyday
@@ -19,6 +19,8 @@
     title = "Machine Learning Tutorial"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/ML_img3.JPG"
     text = """
-        I co-created a tutorial on machine learning. Click to see the tutorial 
-        for yourself.
+        I co-created a tutorial on machine learning. Machine learning is a process for
+        building predictive models. They have the unique feature of being built using 
+        a 'training set' and tested using a 'holdout sample' to test the model's performance. 
+        Click to see the tutorial for yourself.
     """

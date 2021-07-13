@@ -14,6 +14,9 @@ menu:
     - identifier: about
       name: About
       url: '#about'
+    - identifier: CV
+      name: CV
+      url: 'https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/Lieber%20-%20CV.pdf'
     - identifier: skills
       name: Skills
       url: '#skills'
