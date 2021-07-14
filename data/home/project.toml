@@ -1,4 +1,14 @@
 [[list]]
+    title = "Machine Learning Tutorial"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/ML_img.JPG"
+    link = "https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html"
+    text = """
+        I co-created a tutorial on machine learning. Machine learning is a process for
+        building predictive models. They have the unique feature of being built using 
+        a 'training set' and tested using a 'holdout sample' to test the model's performance. 
+        Click to see the tutorial for yourself.
+    """
+[[list]]
     title = "Norms and Unsustainable Consumption"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norms_and_unsustainable_consumption.JPG"
     text = """
@@ -15,12 +25,4 @@
         actually disagree with. In this project, I investigated unpopular
         norms that exist among college students.
     """
-[[list]]
-    title = "Machine Learning Tutorial"
-    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/ML_img3.JPG"
-    text = """
-        I co-created a tutorial on machine learning. Machine learning is a process for
-        building predictive models. They have the unique feature of being built using 
-        a 'training set' and tested using a 'holdout sample' to test the model's performance. 
-        Click to see the tutorial for yourself.
-    """
+

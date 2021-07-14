@@ -7,6 +7,10 @@ to understand the world. I have been teaching statistics and data analysis for s
 I'm also a psychology researcher interested in how norm interventions can be used to 
 reduce peoples' unsustainable consumption, which is the consumption of goods and services 
 with negative environmental impacts at levels not sustainable long-term by the planet. 
+
+<b>Education:</b>
+-- PhD in Social Psychology, University of Oregon (expected Summer 2022)
+-- M.A. in Social Psychology, San Francisco State University, 2016
 """
 
 [[link]]
@@ -18,9 +22,6 @@ with negative environmental impacts at levels not sustainable long-term by the p
 [[link]]
     icon = "fas fa-envelope"
     url = "mailto: slieber@uoregon.edu"
-[[link]]
-    icon = "fab fa-instagram"
-    url = "https://www.instagram.com/storiesfromnumbers/"
-[[link]]
-    icon = "far fa-file-pdf"
-    url = "#"
+# [[link]]
+  #  icon = "fab fa-instagram"
+  #  url = "https://www.instagram.com/storiesfromnumbers/"
