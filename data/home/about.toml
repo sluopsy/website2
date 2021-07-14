@@ -1,7 +1,7 @@
 title = "About Me"
 
 text = """
-I'm a current doctoral student at the University of Oregon that loves using data analysis 
+I'm a current doctoral student at the University of Oregon. I love using data analysis 
 to understand the world. I have been teaching statistics and data analysis for seven years.
 
 I'm also a psychology researcher interested in how norm interventions can be used to 
@@ -22,6 +22,10 @@ with negative environmental impacts at levels not sustainable long-term by the p
 [[link]]
     icon = "fas fa-envelope"
     url = "mailto: slieber@uoregon.edu"
+[[link]]
+    icon = "far fa-file-pdf"
+    url = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/Lieber%20-%20CV.pdf"
+
 # [[link]]
   #  icon = "fab fa-instagram"
   #  url = "https://www.instagram.com/storiesfromnumbers/"

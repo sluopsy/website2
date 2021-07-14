@@ -15,6 +15,15 @@
         taking as a tool used in interpersonal relationships.
     """
 [[list]]
+    title = "Weak emission-line quasars in the context of a modified baldwin effect"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/publication_astro.JPG"
+    link = "https://iopscience.iop.org/article/10.1088/0004-637X/805/2/124"
+    text = """
+        As an undergraduate, I studied math, chemistry, and astronomy. I completed an 
+        independent study project investigating the qualities of quasars, which are 
+        high-energy objects that existed in the early universe.
+    """
+[[list]]
     title = "The role of personality in predicting display rules"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/presentation_personality_displayrules.JPG"
     link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/spsp_presentation_personality_displayrules.pdf"
@@ -34,13 +43,4 @@
         close others, such as one's parents, versus distant others, such as strangers,
         could be explained by how much individuals value collectivism, which is a value
         emphasizing the importance of relational harmony. 
-    """
-[[list]]
-    title = "Weak emission-line quasars in the context of a modified baldwin effect"
-    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/publication_astro.JPG"
-    link = "https://iopscience.iop.org/article/10.1088/0004-637X/805/2/124"
-    text = """
-        As an undergraduate, I studied math, chemistry, and astronomy. I completed an 
-        independent study project investigating the qualities of quasars, which are 
-        high-energy objects that existed in the early universe.
     """
