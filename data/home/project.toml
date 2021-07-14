@@ -11,6 +11,7 @@
 [[list]]
     title = "Norms and Unsustainable Consumption"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norms_and_unsustainable_consumption.JPG"
+    link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/brownbag%20presentation.pdf"
     text = """
         Currently, I'm working on a project investigating how norm interventions
         can be constructed to reduce people's unsustainable consumption behaviors.
@@ -18,6 +19,7 @@
 [[list]]
     title = "Unpopular Norms among College Students"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/unpopular_norms.JPG"
+    link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/wpa_unpopular_norms.pdf"
     text = """
         There is a peculiar phenomenon identified in sociology called
         'unpopular norms', which are norms that guide the everyday

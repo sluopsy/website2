@@ -1,6 +1,7 @@
 [[list]]
     title = "Perspective taking: Motivation and impediment to shared reality"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/publication2.JPG"
+    link = "https://www.sciencedirect.com/science/article/pii/S2352250X1730266X"
     text = """
         This paper was an exploration of the relationship between the concept
         of shared reality and perspective taking.
@@ -8,6 +9,7 @@
 [[list]]
     title = "Where perspective taking can and cannot take us"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/publication1.JPG"
+    link = "https://www.degruyter.com/document/doi/10.1515/9783110676310-002/html"
     text = """
         This paper elaborated on the benefits and limitations of perspective
         taking as a tool used in interpersonal relationships.
@@ -15,6 +17,7 @@
 [[list]]
     title = "The role of personality in predicting display rules"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/presentation_personality_displayrules.JPG"
+    link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/spsp_presentation_personality_displayrules.pdf"
     text = """
         Display rules are informal rules that exist among cultural groups regarding
         how acceptable it is for individuals to express different types of emotions.
@@ -25,6 +28,7 @@
 [[list]]
     title = "The relationship between display rules in relational contexts and collectivistic values"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/presenation_displayrules_collectivism.JPG"
+    link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/wpa_presentation_displayrules_collectivism.pdf"
     text = """
         This study investigated whether differences in how one expresses one emotions to 
         close others, such as one's parents, versus distant others, such as strangers,
@@ -34,6 +38,7 @@
 [[list]]
     title = "Weak emission-line quasars in the context of a modified baldwin effect"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/publication_astro.JPG"
+    link = "https://iopscience.iop.org/article/10.1088/0004-637X/805/2/124"
     text = """
         As an undergraduate, I studied math, chemistry, and astronomy. I completed an 
         independent study project investigating the qualities of quasars, which are 
