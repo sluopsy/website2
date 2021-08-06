@@ -1,7 +1,7 @@
 [[list]]
     title = "Values and Norms Predicting Conformity or Deviance from Unpopular Norms"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/values_norms_unpopular_behaviors.JPG"
-    link = "[]!(/visualizations_values_norms_unpopular_behaviors.html)"
+    link = "https://github.com/sluobo/website2/blob/master/themes/SimpleIntro/static/html/values_norms_unpopular_behaviors.html"
     text = """
         Currently, I'm working on a project investigating how norm interventions
         can be constructed to reduce people's unsustainable consumption behaviors.
@@ -9,7 +9,7 @@
 [[list]]
     title = "Norm Deviation Project"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norm_deviation_project.JPG"
-    link = "https://github.com/sluobo/website2/blob/master/themes/SimpleIntro/static/abbreviated_data_analysis_norm_deviation.html"
+    link = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/html/abbreviated_data_analysis_norm_deviation.html"
     text = """
         Currently, I'm working on a project investigating how norm interventions
         can be constructed to reduce people's unsustainable consumption behaviors.
