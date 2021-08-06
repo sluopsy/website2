@@ -2,18 +2,19 @@
     name = "R"
     icon = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/rstudio/rstudio-original.svg"
     text = """
-        Since learning it in 2016, R has been my programming language of choice. It's flexible, powerful, and straightforward (once you have the basics down).   """
-[[list]]
+        Since learning it in 2016, R has been my programming language of choice. It's flexible, powerful, and straightforward.
+    """
+[[list]]        
     name = "Statistical Modeling"
     icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/regression.JPG"
     text = """
-        Statistical modeling helps us to create simplified representations of complex real-world phenomena. My favorite techniques are regression, multilevel modeling, factor analysis, and machine learning.
+        Statistical modeling helps us to create simplified representations of complex real-world phenomena. My favorite techniques are multiple regression, multilevel modeling, factor analysis, and machine learning.
     """
 [[list]]
     name = "Data Visualization"
     icon = "https://github.com/sluobo/website2/blob/master/themes/SimpleIntro/static/img/visualization.JPG?raw=TRUE"
     text = """
-        Visualizations are one of the most powerful tools data analysts can use to convey meaning to a general audience. Images translate data into meaningful stories about the world. 
+        Visualizations are one of the most powerful tools data analysts can use to convey meaning to a general audience. I enjoy using images to translate data into meaningful stories about what's going on in world. 
     """
 [[list]]
     name = "Data Cleaning"
@@ -25,11 +26,11 @@
     name = "SPSS & Jamovi"
     icon = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spss/spss-plain.svg"
     text = """
-        I've also been trained in using SPSS and Jamovi, as well as have taught students how to conduct statistical analyses using these tools.
+        I've also been trained in using SPSS and Jamovi and have taught students how to conduct statistical analyses using these tools.
     """
 [[list]]
     name = "Communicating"
     icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/teaching.JPG"
     text = """
-        Through my experience teaching, I have developed a passion for simplifying complex statistical concepts so that they can be communicated to a general audience.
+        Through my experience teaching, I have developed a passion for simplifying complex statistical concepts and communicating them to a general audience.
     """

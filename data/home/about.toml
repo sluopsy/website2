@@ -1,12 +1,23 @@
 title = "About Me"
 
 text = """
-I'm a current doctoral student at the University of Oregon. I love using data analysis 
-to understand the world. I have been teaching statistics and data analysis for seven years.
+I'm a current doctoral student at the University of Oregon. I enjoy using data analysis 
+as a tool to understand the world. I have been teaching statistics and data analysis 
+for seven years.
 
-I'm also a psychology researcher interested in how norm interventions can be used to 
-reduce peoples' unsustainable consumption, which is the consumption of goods and services 
-with negative environmental impacts at levels not sustainable long-term by the planet. 
+I'm also a psychology researcher interested in many different topics, including norms,
+unsustainable consumption, and shared reality. 
+
+Currently, I'm working on a project investigating how norm interventions can be used 
+to reduce peoples' unsustainable consumption, which is the consumption of goods and 
+services with negative environmental impacts at levels not sustainable long-term 
+by the planet. 
+
+I'm also very interested in the critique of current scientific practices and how we,
+as a scientific community, can make improvements to strengthen our field's body of 
+literature. This includes joining the open science movement, normalizing 
+pre-registration, and updating the norms around publication practices. 
+
 
 <b>Education:</b>
 -- PhD in Social Psychology, University of Oregon (expected Summer 2022)

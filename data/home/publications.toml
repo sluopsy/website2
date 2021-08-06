@@ -24,6 +24,17 @@
         high-energy objects that existed in the early universe.
     """
 [[list]]
+    title = "Unpopular Norms among College Students"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/unpopular_norms.JPG"
+    link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/wpa_unpopular_norms.pdf"
+    text = """
+        There is a peculiar phenomenon identified in sociology called
+        'unpopular norms', which are norms that guide the everyday
+        behavior of members of a group that secretly the group members
+        actually disagree with. In this project, I investigated unpopular
+        norms that exist among college students.
+    """
+[[list]]
     title = "The role of personality in predicting display rules"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/presentation_personality_displayrules.JPG"
     link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/spsp_presentation_personality_displayrules.pdf"
