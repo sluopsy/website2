@@ -3,35 +3,41 @@
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/values_norms_unpopular_behaviors.JPG"
     link = "https://rpubs.com/sluopsy/797144"
     text = """
-        Currently, I'm working on a project investigating how norm interventions
-        can be constructed to reduce people's unsustainable consumption behaviors.
+        The purpose of this study was to examine the relative importance of personal 
+        values versus normative constructs as predictors of conformity with or deviance from 
+        unpopular norms among college undergraduates. Here, I have visualized some of the 
+        results using bar graphs, histograms, and scatterplots.
     """
 [[list]]
     title = "Norm Deviation Project"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norm_deviation_project.JPG"
     link = "https://rpubs.com/sluopsy/797142"
     text = """
-        Currently, I'm working on a project investigating how norm interventions
-        can be constructed to reduce people's unsustainable consumption behaviors.
-    """
-
-[[list]]
-    title = "Machine Learning Tutorial"
-    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/ML_img.JPG"
-    link = "https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html"
-    text = """
-        I co-created a tutorial on machine learning. Machine learning is a process for
-        building predictive models. They have the unique feature of being built using 
-        a 'training set' and tested using a 'holdout sample' to test the model's performance. 
-        Click to see the tutorial for yourself.
+        In this project, I examined participants' descriptions of a time when they witnessed
+        someone deviating from a widely followed normative behavior. I was interested in 
+        visualizing common themes in the participants' responses. Here, I have taken the
+        norm deviation descriptions and converted them into wordclouds to see commonly mentioned
+        ideas.
     """
 [[list]]
     title = "Norms and Unsustainable Consumption"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norms_and_unsustainable_consumption.JPG"
     link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/brownbag%20presentation.pdf"
     text = """
-        Currently, I'm working on a project investigating how norm interventions
-        can be constructed to reduce people's unsustainable consumption behaviors.
+        I'm currently working on a project investigating how norm interventions
+        can be constructed to reduce people's unsustainable consumption behaviors. This is 
+        a presentation I gave on the background motivating this project after reviewing 
+        the relevant literature.
+    """
+[[list]]
+    title = "Machine Learning Tutorial"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/ML_img.JPG"
+    link = "https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html"
+    text = """
+        I co-created a tutorial on machine learning. Machine learning is a unique process for
+        building predictive models because you can test the model's performance across different
+        samples, which helps prevent creating a model that is "overfit" to the error in any single
+        particular dataset. 
     """
 
 
