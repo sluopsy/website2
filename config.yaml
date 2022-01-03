@@ -4,8 +4,8 @@ theme: SimpleIntro
 title: Home
 publishDir: public
 params:
-  mainText: Keep scrolling to peruse my projects.
-  mainTitle: Hi, I'm Sara
+  mainText: Doctoral Student, Psychology Researcher, Statistics Enthusiast
+  mainTitle: Sara Lieber
   mainbg: https://picsum.photos/1920/1080
   name: Sara
 menus: {}
@@ -16,7 +16,7 @@ menu:
       url: '#about'
     - identifier: CV
       name: CV
-      url: 'https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/Lieber%20-%20CV.pdf'
+      url: 'https://github.com/sluopsy/website2/raw/master/themes/SimpleIntro/static/Lieber%20-%20CV.pdf'
     - identifier: skills
       name: Skills
       url: '#skills'

@@ -8,25 +8,25 @@
     name = "Statistical Modeling"
     icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/regression.JPG"
     text = """
-        Statistical modeling helps us to create simplified representations of complex real-world phenomena. My favorite techniques are multiple regression, multilevel modeling, factor analysis, and machine learning.
-    """
+        Statistical modeling helps us to create simplified representations of complex real-world phenomena through organizing empirical data.    
+        """
 [[list]]
     name = "Data Visualization"
     icon = "https://github.com/sluobo/website2/blob/master/themes/SimpleIntro/static/img/visualization.JPG?raw=TRUE"
     text = """
-        Visualizations are one of the most powerful tools data analysts can use to convey meaning to a general audience. I enjoy using images to translate data into meaningful stories about what's going on in world. 
+        I use data visualizations to translate data into meaningful, easy-to-interpret stories about real-world phenomena. 
     """
 [[list]]
     name = "Data Cleaning"
     icon = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/diagnostics.JPG"
     text = """
-        Before data is ready to analyze, I pay special attention to cleaning it, handling missing data and outliers, and checking that statistical assumptions have been met.
+        Before data is ready to analyze, it must go through a cleaning process, which includes identifying data entry errors, handling missing data, and reformatting to prepare it for analysis.
     """
 [[list]]
     name = "SPSS & Jamovi"
     icon = "https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spss/spss-plain.svg"
     text = """
-        I've also been trained in using SPSS and Jamovi and have taught students how to conduct statistical analyses using these tools.
+        SPSS and Jamovi are two additional statistical analysis softwares I have experience with using.
     """
 [[list]]
     name = "Communicating"

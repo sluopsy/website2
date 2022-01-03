@@ -1,32 +1,64 @@
-title = "About Me"
+title = "Background"
 
 text = """
-I'm a current doctoral student at the University of Oregon. I enjoy using data analysis 
-as a tool to understand the world. I have been teaching statistics and data analysis 
-for seven years.
+I'm a current 6th year doctoral student at the University of Oregon. I took a unique path
+to pursuing a PhD in psychology. As an undergraduate, I began with studying astrophysics
+at the University of Colorado. As a Texas native, it was thrilling to be surrounded
+by snow and mountains for the first time. But alas, for financial reasons, I returned 
+to my home state and finished my bachelor's degree at the University of North Texas. 
+Because UNT had no astrophysics program, I completed my undergraduate degree in 
+chemistry. However, I didn't feel satisfied with only studying the elementary components 
+which make up all objects in the universe. Instead, I felt compelled to study some of the 
+objects that these elements combine interestingly and complexly into: people. 
+After finishing my bachelor's degree, I set my sights on pursuing a graduate degree in 
+psychology and received a master's in social psychology from San Francisco State University. 
 
-I'm also a psychology researcher interested in many different topics, including norms,
-unsustainable consumption, and shared reality. 
+I've spent the last eight years being trained in the methods of understanding real-world
+phenomena through empirical observation and analysis. This has included taking courses in 
+statistical and research methods, applying these techniques to my own independent research 
+projects, and teaching these skills of conducting research to other undergraduate and graduate 
+students.
 
-Currently, I'm working on a project investigating how norm interventions can be used 
-to reduce peoples' unsustainable consumption, which is the consumption of goods and 
-services with negative environmental impacts at levels not sustainable long-term 
-by the planet. 
+<font size = "5"><b>Current Interests & Projects</b></font>
 
-I'm also very interested in the critique of current scientific practices and how we,
-as a scientific community, can make improvements to strengthen our field's body of 
-literature. This includes joining the open science movement, normalizing 
-pre-registration, and updating the norms around publication practices. 
+The area of psychology research I have always been most fascniated with is cultural psychology. 
+Specifically, I'm interested in understanding the ways in which culture has an influence on 
+people's thoughts and behaviors and the mechanisms via which these effects happen. Additionally, 
+I'm very interested and concerned with environmental issues like climate change. In my current 
+project, I'm applying a combination of these interests to understand how psychological 
+understandings of the influence of culture on people can be applied to mitigate individuals' 
+impacts on ongoing climate change processes.
+
+In my current project, I'm investigating how norm interventions can best be applied to reduce
+the environmentally impactful behavior of unsustinable consumption. Unsustainable consumption 
+is the consumption of goods and services with negative environmental impacts at levels not 
+sustainable long-term by the planet. Previous work has found that norms, which are preceived 
+rules for behavior that exist among groups of people, can have profound impacts on people's
+behavior, making them a good candidate for an intervention tool in the domain of environmentally
+relevant behaviors.
 
 
-<b>Education:</b>
--- PhD in Social Psychology, University of Oregon (expected Summer 2022)
--- M.A. in Social Psychology, San Francisco State University, 2016
+<font size = "5"><b>Critique of Current Scientific Practices</b></font>
+
+Another area which I'm intensely interested in is the critique of current scientific practices 
+and how normative practices may be doing a disservice to the project of scientifically
+understanding psychological phenomena. I'm interested in pursuing the normalization of better 
+scientific practices to strengthen our field's body of literature and the confidence we can 
+have in our published findings. 
+
+Changing current scientific practices for the better includes the normalization of behaviors
+such as joining the open science movement, pre-registration, and updating the norms 
+around publication practices. 
+
+
+<font size = "5"><b>Education:</b></font>
+-- <b>PhD</b> in Social Psychology, University of Oregon (expected Summer 2023)
+-- <b>M.A.</b> in Social Psychology, San Francisco State University, 2016
 """
 
 [[link]]
     icon = "fab fa-github"
-    url = "https://github.com/sluobo"
+    url = "https://github.com/sluopsy"
 [[link]]
     icon = "fab fa-linkedin"
     url = "https://www.linkedin.com/in/sara-lieber-a2811a16b"
@@ -35,7 +67,7 @@ pre-registration, and updating the norms around publication practices.
     url = "mailto: slieber@uoregon.edu"
 [[link]]
     icon = "far fa-file-pdf"
-    url = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/Lieber%20-%20CV.pdf"
+    url = "https://github.com/sluopsy/website2/raw/master/themes/SimpleIntro/static/Lieber%20-%20CV.pdf"
 
 # [[link]]
   #  icon = "fab fa-instagram"

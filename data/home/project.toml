@@ -1,4 +1,14 @@
 [[list]]
+    title = "Norms and Unsustainable Consumption"
+    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norms_and_unsustainable_consumption.JPG"
+    link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/brownbag%20presentation.pdf"
+    text = """
+        I'm currently working on a project investigating how norm interventions
+        can be constructed to reduce people's unsustainable consumption behaviors. This is 
+        a presentation I gave on the background motivating this project after reviewing 
+        the relevant literature.
+    """
+[[list]]
     title = "Values and Norms Predicting Conformity or Deviance from Unpopular Norms"
     image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/values_norms_unpopular_behaviors.JPG"
     link = "https://rpubs.com/sluopsy/797144"
@@ -18,16 +28,6 @@
         visualizing common themes in the participants' responses. Here, I have taken the
         norm deviation descriptions and converted them into wordclouds to see commonly mentioned
         ideas.
-    """
-[[list]]
-    title = "Norms and Unsustainable Consumption"
-    image = "https://raw.githubusercontent.com/sluobo/website2/master/themes/SimpleIntro/static/img/norms_and_unsustainable_consumption.JPG"
-    link = "https://github.com/sluobo/website2/raw/master/themes/SimpleIntro/static/brownbag%20presentation.pdf"
-    text = """
-        I'm currently working on a project investigating how norm interventions
-        can be constructed to reduce people's unsustainable consumption behaviors. This is 
-        a presentation I gave on the background motivating this project after reviewing 
-        the relevant literature.
     """
 [[list]]
     title = "Machine Learning Tutorial"
